@@ -5,7 +5,7 @@ const Heading = () => {
     return (
         <Container className='mt-5'>
             <div className='text-red'>
-                <h3 className='mb-3 fs-4'>JAYLINKS ACCESSORIES</h3>
+                <h3 className='mb-3 fs-4 text-center'>JAYLINKS ACCESSORIES</h3>
             </div>
         </Container>
     )

@@ -8,7 +8,7 @@ function TextControlsExample() {
     return (
         <Container className='mt-5'>
             <Row>
-                <Col className='text-center'><h1>Contact Us</h1>
+                <Col><h1>Contact Us</h1>
                     <p>Headquarters Nigerian Air Force</p>
                     <p>Area 7 carki Abuja</p>
                 </Col>
